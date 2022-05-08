@@ -1,1 +1,1 @@
-# super-duper-octo-carnival
+I am editing the README file. Adding some more details about the project description.# super-duper-octo-carnival
